@@ -1,0 +1,7 @@
+kmpare
+*.o
+*.d
+/Debug/
+*.cproject
+*.project
+/Release/
