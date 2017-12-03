@@ -5,3 +5,4 @@ kmpare
 *.cproject
 *.project
 /Release/
+/.settings/
